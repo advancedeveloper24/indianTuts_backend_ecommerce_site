@@ -1,0 +1,12 @@
+{
+  "name": "indianTuts_backend_ecommerce_site",
+  "version": "1.0.0",
+  "description": "Complete backend tuts - by Indian Master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
